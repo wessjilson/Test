@@ -54,7 +54,7 @@
 # %%a
 # start
 # Get vehicle information from the user
-    vehicle = input("Input car make, model, color, and year(Example: Ford Taurus 2018)\n")
+    vehicle = input("Input car make, model, color, and year(Example: Ford Taurus Blue 2018)\n")
 
     # Create list from user input
     vehicleInfo = vehicle.split()
